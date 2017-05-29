@@ -8192,10 +8192,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SA_2017\\AsynchFoundation\\AsynchFoundation\\AsynchFoundation.csproj",
+      "projectUniqueName": "C:\\GIT\\AsyncFoundation\\AsynchFoundation\\AsynchFoundation.csproj",
       "projectName": "AsynchFoundation",
-      "projectPath": "C:\\SA_2017\\AsynchFoundation\\AsynchFoundation\\AsynchFoundation.csproj",
-      "outputPath": "C:\\SA_2017\\AsynchFoundation\\AsynchFoundation\\obj\\",
+      "projectPath": "C:\\GIT\\AsyncFoundation\\AsynchFoundation\\AsynchFoundation.csproj",
+      "outputPath": "C:\\GIT\\AsyncFoundation\\AsynchFoundation\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

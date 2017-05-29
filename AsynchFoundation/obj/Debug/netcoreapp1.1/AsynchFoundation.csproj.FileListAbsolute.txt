@@ -16,3 +16,12 @@ C:\SA_2017\AsynchFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFound
 C:\SA_2017\AsynchFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.AssemblyInfo.cs
 C:\SA_2017\AsynchFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.dll
 C:\SA_2017\AsynchFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.pdb
+C:\GIT\AsyncFoundation\AsynchFoundation\bin\Debug\netcoreapp1.1\AsynchFoundation.deps.json
+C:\GIT\AsyncFoundation\AsynchFoundation\bin\Debug\netcoreapp1.1\AsynchFoundation.runtimeconfig.json
+C:\GIT\AsyncFoundation\AsynchFoundation\bin\Debug\netcoreapp1.1\AsynchFoundation.runtimeconfig.dev.json
+C:\GIT\AsyncFoundation\AsynchFoundation\bin\Debug\netcoreapp1.1\AsynchFoundation.dll
+C:\GIT\AsyncFoundation\AsynchFoundation\bin\Debug\netcoreapp1.1\AsynchFoundation.pdb
+C:\GIT\AsyncFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.csprojResolveAssemblyReference.cache
+C:\GIT\AsyncFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.AssemblyInfo.cs
+C:\GIT\AsyncFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.dll
+C:\GIT\AsyncFoundation\AsynchFoundation\obj\Debug\netcoreapp1.1\AsynchFoundation.pdb
